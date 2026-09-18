@@ -1,0 +1,27 @@
+香山帮海外网站 · 概念演示 V0.1
+
+打开方式
+双击 index.html 即可浏览。无需安装，无需登录。
+转发时请将整个 xiangshan-demo 文件夹压缩发送，对方解压后打开 index.html。
+请勿只发送 index.html，图片、脚本和PDF都在同一个文件夹中。
+
+建议演示顺序
+1. 首页：先感受品牌和庭院意境。
+2. 海外作品：点选地区，打开案例，查看官方来源。
+3. 营造之美：切换木作、砖瓦、山石和造境。
+4. 空间灵感：选择私人庭院、亭廊茶室或酒店公共空间。
+5. 庭院需求：填写城市等信息，选择照片，生成并下载需求单。
+
+内容说明
+这是一版供苏州新概念建材沟通网站方向的中文演示，品牌名称暂拟。
+12个海外案例来自已整理的作品汇总，附官方来源，不是公司的自有业绩。
+首页庭院画面为AI生成的概念图，不对应真实项目。
+所示服务方向和流程为提议，须由企业确认实际能力与分工。
+需求助手为本地规则式演示，未接入AI服务，不分析照片；数据不上传、不发送、不持久存储。
+下载的是文本需求单，场地照片需另行提供。
+正式上线仍需确认企业介绍、自有项目及图片授权、联系人、服务范围、外语内容和表单接收方式。
+
+图片制作记录
+工具：内置 image_gen（imagegen 技能），2026-09-18。
+文件：assets/courtyard.png
+提示词：Create one beautiful photorealistic architectural editorial image for a premium Suzhou garden architecture website hero, landscape aspect ratio 16:9. A serene contemporary interpretation of an intimate Suzhou scholar garden, white limewashed walls, authentic restrained dark grey tiled roof and warm timber pavilion on right, circular moon gate on left opening to layered green foliage, sculptural Taihu limestone, still reflecting pond foreground with stone stepping path, delicate Japanese maple style tree but Chinese garden composition, quiet warm morning daylight, natural green and warm grey palette, luxurious yet humble materials, elegant architectural photography, no people, no text, no watermark, realistic coherent construction. This is a fictional conceptual courtyard, not any identifiable existing historic site. Rich full bleed image, camera at eye level, excellent fine detail.
